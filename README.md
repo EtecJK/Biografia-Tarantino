@@ -2,6 +2,8 @@
 
 
 -> Frontend usando HTML5 e CSS3.
+-> Acesse a licença clicando em: <a href="#MIT-1-ov-file">Licença</a>
+
 
 ### UI do projeto feito com Figma:
 ![preview img](./Assets/section-main.PNG)
